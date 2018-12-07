@@ -44,7 +44,7 @@ cat('*Server name\n')
 Sys.setenv("DATAVERSE_SERVER" ="dataverse.ada.edu.au")
 
 cat('*Server key\n')
-Sys.setenv("DATAVERSE_KEY" ="6fda484f-4c02-4b64-b19c-f1593f56eb40")
+Sys.setenv("DATAVERSE_KEY" ="YOUR-KEY")
 
 cat('\n*********************\n')
 cat('\n*Directory structure*\n')
