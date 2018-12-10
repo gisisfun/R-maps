@@ -1,5 +1,5 @@
 # R-maps
-
+The following scripts allow for R to access a dataverse data set, download it, clean it, prepare it for mapping, and map it using the base R, Simple Features and ggplot2 libraries.
 scripts
 - scriptp1.R - reads and cleans file from dataverse. Please apply for access to PIA synthetic Data for access.
 - scriptp2.R - creates file for map creation
